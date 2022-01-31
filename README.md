@@ -31,13 +31,19 @@ This model has an r-squared value of 0.7149 which means this regression model do
 
 Here is what the total summary for manufacturing lots looks like: <br/>
 <img src="Resources/total_lot_summary.png"> <br/>
-<img src="Resources/Dev3_ttest_all_lots.PNG"> 
 
 Here is a deeper dive into each of the lots: <br/>
 <img src="Resources/total_lot_summary_breakdown.png"> <br/>
+
+
+The results of this data analysis on the 3 lots show that lots 1 & 2 meet the design specifications because they are under 100 lbs/sq in. but lot 3 does noit since it is above 100.
+
+## Deliverable 3: T-Tests on Suspension Coils
+
+T-test across all lots: <br/>
+<img src="Resources/Dev3_ttest_all_lots.PNG"> 
+
+T-test across each individual lot : <br/>
 <img src="Resources/Dev3_ttest_lot1.PNG">
 <img src="Resources/Dev3_ttest_lot2.PNG">
 <img src="Resources/Dev3_ttest_lot3.PNG">
-
-
-

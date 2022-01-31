@@ -25,3 +25,19 @@ The slope of the linear model is not considered to be zero because the p-value i
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 This model has an r-squared value of 0.7149 which means this regression model does predict the MPG of MechaCar accurately 71% of the time.
+
+
+## Deliverable 2: Create Visualizations for the Trip Analysis
+
+Here is what the total summary for manufacturing lots looks like:
+<img src="Resources/total_lot_summary.png">
+<img src="Resources/Dev3_ttest_all_lots.PNG">
+
+Here is a deeper dive into each of the lots:
+<img src="Resources/total_lot_summary_breakdown.png">
+<img src="Resources/Dev3_ttest_lot1.PNG">
+<img src="Resources/Dev3_ttest_lot2.PNG">
+<img src="Resources/Dev3_ttest_lot3.PNG">
+
+
+

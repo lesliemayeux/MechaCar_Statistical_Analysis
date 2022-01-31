@@ -16,3 +16,12 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 The linear regression model I created predicts MPG of MechaCar prototypes by using vehicle weight and length, spoiler angle, ground clearance and if it has AWD or not.
 Here are my results:
 <img src="Resources/Dev1_linear_regression.PNG">
+
+### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+Coefficients vehicle length and ground clearance are statistically mopre likely to generate non-random amounts of variance. This means those two variables are highly impactful to the MPG on the MechaCar.  The other variables have p-values that suggest they have a randion amount of variance with the dataset.
+
+### Is the slope of the linear model considered to be zero? Why or why not?
+The slope of the linear model is not considered to be zero because the p-value is less than 0.05. 
+
+### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+This model has an r-squared value of 0.7149 which means this regression model does predict the MPG of MechCar accurately 71% of the time.

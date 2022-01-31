@@ -29,11 +29,11 @@ This model has an r-squared value of 0.7149 which means this regression model do
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
-Here is what the total summary for manufacturing lots looks like:
+Here is what the total summary for manufacturing lots looks like: <br/>
 <img src="Resources/total_lot_summary.png"> <br/>
 <img src="Resources/Dev3_ttest_all_lots.PNG"> 
 
-Here is a deeper dive into each of the lots:
+Here is a deeper dive into each of the lots: <br/>
 <img src="Resources/total_lot_summary_breakdown.png"> <br/>
 <img src="Resources/Dev3_ttest_lot1.PNG">
 <img src="Resources/Dev3_ttest_lot2.PNG">

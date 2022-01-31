@@ -24,4 +24,4 @@ Coefficients vehicle length and ground clearance are statistically mopre likely 
 The slope of the linear model is not considered to be zero because the p-value is less than 0.05. 
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-This model has an r-squared value of 0.7149 which means this regression model does predict the MPG of MechCar accurately 71% of the time.
+This model has an r-squared value of 0.7149 which means this regression model does predict the MPG of MechaCar accurately 71% of the time.

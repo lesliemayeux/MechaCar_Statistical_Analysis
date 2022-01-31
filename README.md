@@ -47,3 +47,35 @@ T-test across each individual lot : <br/>
 <img src="Resources/Dev3_ttest_lot1.PNG">
 <img src="Resources/Dev3_ttest_lot2.PNG">
 <img src="Resources/Dev3_ttest_lot3.PNG">
+
+### Analysis Summary
+- Lot 1: We cannot reject the null hypothesis because there is no statistically difference between the observed sample and presumed population mean.
+- Lot 2: We cannot reject the null hypothesis.
+- Lot 3: P-value is .04 so this indicates to reject the null hypothesis.
+
+
+## Deliverable 4: Study Design: MechaCar vs Competition
+
+## What metric or metrics are you going to test?
+Independent variable:
+- Safety Feature Rating
+- Drive Package
+- Engine
+- Resale Value
+- Average Annual Cost of ownership 
+- Gasoline Efficiency)
+
+Dependent Variable
+- Current Price
+
+
+## What is the null hypothesis or alternative hypothesis?
+Null hypothesis: MechaCar is priced correctly.
+
+Alternative hypothesis: MechaCar is not priced correctly.
+
+## What statistical test would you use to test the hypothesis? And why?
+T-test because we showed its usefulness above.
+
+## What data is needed to run the statistical test?
+A table of MechaCar data.

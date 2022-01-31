@@ -15,4 +15,4 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 The linear regression model I created predicts MPG of MechaCar prototypes by using vehicle weight and lenght, spoiler angle, ground clearance and if it has AWD or not.
 Here are my results:
-<img src="resources/Dev1_linear_regression.png">
+<img src="Resources/Dev1_linear_regression.png">
